@@ -6,3 +6,6 @@ C:\Users\Facu\Desktop\TPs\REsp\ReSegundoParcial\MainProject\bin\Debug\Entidades.
 C:\Users\Facu\Desktop\TPs\REsp\ReSegundoParcial\MainProject\obj\Debug\MainProject.csprojResolveAssemblyReference.cache
 C:\Users\Facu\Desktop\TPs\REsp\ReSegundoParcial\MainProject\obj\Debug\MainProject.exe
 C:\Users\Facu\Desktop\TPs\REsp\ReSegundoParcial\MainProject\obj\Debug\MainProject.pdb
+C:\Users\Facu\Documents\GitHub\REsp\ReSegundoParcial\MainProject\bin\Debug\MainProject.exe.config
+C:\Users\Facu\Documents\GitHub\REsp\ReSegundoParcial\MainProject\obj\Debug\MainProject.exe
+C:\Users\Facu\Documents\GitHub\REsp\ReSegundoParcial\MainProject\obj\Debug\MainProject.pdb

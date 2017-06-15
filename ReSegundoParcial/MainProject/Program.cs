@@ -22,9 +22,9 @@ namespace MainProject
 
         static void Main(string[] args)
         {
-            Manzana m1 = new Manzana(ConsoleColor.Red, 2, "La Mejor");
-            Manzana m2 = new Manzana(ConsoleColor.Red, 2, "La Mejor2");
-            Manzana m3 = new Manzana(ConsoleColor.Red, 3, "La Mejor3");
+            Manzana m1 = new Manzana(ConsoleColor.Red, 2, "Dist1");
+            Manzana m2 = new Manzana(ConsoleColor.Red, 2, "Dist2");
+            Manzana m3 = new Manzana(ConsoleColor.Red, 3, "Dist3");
             Platano p1 = new Platano(ConsoleColor.Yellow, 3, "Pais");
             Platano p2 = new Platano(ConsoleColor.Yellow, 4, "Pais2");
             Platano p3 = new Platano(ConsoleColor.Yellow, 5, "Pais3");
