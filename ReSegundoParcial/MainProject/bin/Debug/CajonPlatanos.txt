@@ -1,0 +1,22 @@
+Cajon
+Capacidad: 3
+Precio Total: 30
+Tipo: Platano
+Carozo: False
+Color: Yellow
+Peso: 3
+Pais de origen: Pais
+
+Tipo: Platano
+Carozo: False
+Color: Yellow
+Peso: 4
+Pais de origen: Pais2
+
+Tipo: Platano
+Carozo: False
+Color: Yellow
+Peso: 5
+Pais de origen: Pais3
+
+

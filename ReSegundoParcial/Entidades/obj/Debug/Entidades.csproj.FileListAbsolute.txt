@@ -1,0 +1,5 @@
+C:\Users\Facu\Desktop\TPs\REsp\ReSegundoParcial\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\Facu\Desktop\TPs\REsp\ReSegundoParcial\Entidades\bin\Debug\Entidades.dll
+C:\Users\Facu\Desktop\TPs\REsp\ReSegundoParcial\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Facu\Desktop\TPs\REsp\ReSegundoParcial\Entidades\obj\Debug\Entidades.dll
+C:\Users\Facu\Desktop\TPs\REsp\ReSegundoParcial\Entidades\obj\Debug\Entidades.pdb
